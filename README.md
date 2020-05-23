@@ -40,8 +40,9 @@ For these experiments, I will define concentration as: conc = petro R50/petro R9
 
 ![luminosity](https://groklearning-cdn.com/modules/UAAhKfyAhDnQWiVUP5NMi6/concentration_example.png)
 
-Decision Tree Accuracy: 0.787179487179
-Random Forest Accuracy: 0.873076923077
+**Decision Tree Accuracy:** 0.787179487179
+
+**Random Forest Accuracy:** 0.873076923077
      
 ## Acknowlegments
 
