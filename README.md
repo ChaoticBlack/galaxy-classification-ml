@@ -19,7 +19,7 @@ Libraries
 The data set is a numpy array containing features and classification of 780 galaxies. This dataset is a sample of galaxies where at least 20 human classifiers (volunteers) have come to a consensus on the galaxy type.
 Hence, this is a high quality dataset
 
-##Features
+## Features
 
 The features that I have used to do the galaxy classification are colour index, adaptive moments, eccentricities and concentrations. These features are provided as part of the SDSS catalogue.
 
