@@ -40,7 +40,8 @@ For these experiments, I will define concentration as: conc = petro R50/petro R9
 
 ![luminosity](https://groklearning-cdn.com/modules/UAAhKfyAhDnQWiVUP5NMi6/concentration_example.png)
 
-Currently, using decision tree classification, the accuracy is 0.72. I am working on other models to improve the accuracy!
+Decision Tree Accuracy: 0.787179487179
+Random Forest Accuracy: 0.873076923077
      
 ## Acknowlegments
 
