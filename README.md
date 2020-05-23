@@ -39,10 +39,15 @@ The Petrosian method allows to compare the radial profiles of galaxies at differ
 For these experiments, I will define concentration as: conc = petro R50/petro R90 , using concentrations from u,r and z bands.
 
 ![luminosity](https://groklearning-cdn.com/modules/UAAhKfyAhDnQWiVUP5NMi6/concentration_example.png)
+## Accuracy Score
 
 **Decision Tree Accuracy:** 0.787179487179
 
 **Random Forest Accuracy:** 0.873076923077
+
+**Confusion matrix**
+
+![confusion matrix](https://groklearning-cdn.com/modules/4cNpN3nHrL8rz3kkSKErs3/forest_tree_comparison.png)
      
 ## Acknowlegments
 
