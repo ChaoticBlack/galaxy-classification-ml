@@ -42,3 +42,7 @@ For these experiments, I will define concentration as: conc = petro R50/petro R9
 
 Currently, using decision tree classification, the accuracy is 0.72. I am working on other models to improve the accuracy!
      
+## Acknowlegments
+
+* Galaxy Zoo
+* [Data Driven Astronomy Course](https://www.coursera.org/learn/data-driven-astronomy) offered by the University of Sydney
