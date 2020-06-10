@@ -45,9 +45,13 @@ For these experiments, I will define concentration as: conc = petro R50/petro R9
 
 **Random Forest Accuracy:** 0.873076923077
 
+**Neural Network Classification Accuracy:** 0.8760683760683761 
+
 **Confusion matrix**
 
 ![confusion matrix](https://groklearning-cdn.com/modules/4cNpN3nHrL8rz3kkSKErs3/forest_tree_comparison.png)
+
+![confusion matrix](https://raw.githubusercontent.com/ChaoticBlack/galaxy-classification-ml/master/Neural_network_sklearn/confusion%20matrix.png)
      
 ## Acknowlegments
 
